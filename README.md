@@ -1,1 +1,1 @@
-# coffe-review-app
+# coffee-review-app
